@@ -15,6 +15,21 @@ This project is a local paper-trading simulator for Binance Futures that uses re
 
 Think of it as the “truth serum” for strategy ideas. It turns opinions and signals into a measurable track record.
 
+📖 **Read more**: [Building a Smart Crypto Trading Assistant & Virtual Trading Platform](https://missing-title.com/blog/building-smart-crypto-trading-assistant-virtual-trading-platform#paper-trading)
+
+---
+
+## 📸 Screenshots
+
+### Trading Dashboard
+![Trading Dashboard](https://missing-title.com/sites/default/files/styles/portfolio_scale_width/public/2026-01/fireshot-capture-014-binance-virtual-trader-localhost.png?itok=N3NTTLoU)
+
+### Live Position Monitoring
+![Live Position Monitoring](https://missing-title.com/sites/default/files/styles/portfolio_scale_width/public/2026-01/rctc3kptrk.png?itok=nIi6hZ0N)
+
+### Trading History & Statistics
+![Trading History & Statistics](https://missing-title.com/sites/default/files/styles/portfolio_scale_width/public/2026-01/b5tjlptgng.png?itok=3UrFL3VE)
+
 ---
 
 ## How verification works
