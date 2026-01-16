@@ -1,0 +1,53 @@
+{
+  "name": "binance-virtual-trader-tool",
+  "version": "0.1.0",
+  "description": "Paper trading simulator for Binance Futures with real-time price feeds and automatic SL/TP execution",
+  "author": "Andrey Turik",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreyturik/binance-virtual-trader-tool.git"
+  },
+  "homepage": "https://github.com/andreyturik/binance-virtual-trader-tool#readme",
+  "keywords": [
+    "binance",
+    "paper-trading",
+    "futures",
+    "cryptocurrency",
+    "trading-simulator",
+    "websocket",
+    "nextjs"
+  ],
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "bufferutil": "^4.0.9",
+    "csv-writer": "^1.6.0",
+    "next": "^14.2.0",
+    "pino": "^9.5.0",
+    "pino-pretty": "^11.3.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "utf-8-validate": "^6.0.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.11",
+    "@types/node": "^20.16.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "@types/ws": "^8.5.12",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
